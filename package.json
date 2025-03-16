@@ -1,0 +1,25 @@
+{
+  "name": "link-syntax",
+  "displayName": "Link Syntax",
+  "description": "Link syntax highlight support",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "link",
+      "aliases": ["Link", "link"],
+      "extensions": [".link"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "link",
+      "scopeName": "main.link",
+      "path": "./syntaxes/link.tmLanguage.json"
+    }]
+  }
+}
