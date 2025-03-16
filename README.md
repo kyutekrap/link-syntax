@@ -12,7 +12,6 @@ Link syntax highlighting support for VS Code
 ## Configuration
 
 After installing, if language is not detected, open the link file and set the language from the bottom right.
-![alt text](image.png)
 
 
 **Enjoy!**

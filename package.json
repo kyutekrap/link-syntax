@@ -2,6 +2,10 @@
   "name": "link-syntax",
   "displayName": "Link Syntax",
   "description": "Link syntax highlight support",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyutekrap/link-syntax.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
