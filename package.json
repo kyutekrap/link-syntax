@@ -2,6 +2,7 @@
   "name": "link-syntax",
   "displayName": "Link Syntax",
   "description": "Link syntax highlight support",
+  "publisher": "katepark",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kyutekrap/link-syntax.git"
