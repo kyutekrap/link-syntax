@@ -59,8 +59,12 @@
 				"match": "#step\\b"
 				},
 				{
+				"name": "macro.preprocessor.data",
+				"match": "#data\\b"
+				},
+				{
 				"name": "invalid.illegal.macro.link",
-				"match": "#(?!flow|step)\\w+"
+				"match": "#(?!flow|step|data)\\w+"
 				}
 			]
 		},
